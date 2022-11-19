@@ -13,7 +13,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/StevenGS2907/gallery-master/blob/main/css.txt">
       Solution
     </a>
     <span> | </span>
@@ -28,10 +28,10 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/StevenGS2907/gallery-master/blob/main/Capture.PNG)
 
 
 ## Contact
 
-- GitHub [StevenGS2907]()
+- GitHub [StevenGS2907](https://github.com/StevenGS2907/gallery-master)
 - Correo [(stevengonzalezsachez20@gmail.com)]
